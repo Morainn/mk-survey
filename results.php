@@ -5,7 +5,7 @@ require_once'connection.php';
 
 if(isset($_POST['ok_btn']))
 {
-	header('location:index.php'); 
+	header('location:index.html'); 
 }
 
 $ages = 0;
